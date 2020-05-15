@@ -14,4 +14,5 @@ To get started right away:
 
 ## User Stories
 
+Both Keyboard and mouse are allowed to play the drum machine
 
